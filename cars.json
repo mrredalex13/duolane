@@ -1,20 +1,18 @@
-{
-  "{": {},
-  "\"model\":\"Audi A5 Sportback 2.0 TFSI quattro*3xS line*S tronic\",": {},
-  "\"description\":\"BILDH?BSCHES A5 CABRIO 2.0 TFSI QUATTRO S LINE IN ELEGANTER FARBKOMBINATION MIT 7-GANG S TRONIC UND SEHR SCH?NER AUSSTATTUNG AUS ERSTBESITZ !!! DURCHGEHEND AUDI-SCHECKHEFTGEPFLEGTES FAHRZEUG IN GUTEM ZUSTAND (INNEN WIE AUSSEN) !!! LETZTE AUDI-INSPEKTION IN 04/17 BEI 90.922 KM INKL. BREMSFL?SSIGKEITS- UND ?LWECHSEL SOWIE AUSTAUSCH VON LUFT-, STAUB- UND POLLENFILTER !!! DEUTSCHES FAHRZEUG- KEIN RE-IMPORT ODER EX-MIETWAGEN !!!\",": {},
-  "\"Rating\":\"8.10,": {},
-  "\"category\":\"Sedan| Sport \",": {},
-  "\"brand\":\"Audi\",": {},
-  "\"img\":": "/z/N1oAAOSwo3tasXKo/$_20.jpg\"",
-  "},": {},
-  "\"model\":\"BMW M4 Coupe M-Driver LED NaviPro HiFi uvm!\",": {},
-  "\"description\":\"The BMW M4 is a high-performance version of the BMW 4 Series automobile developed by BMW's motorsport division, BMW M GmbH. Part of the renumbering that splits the 3 Series coupe and convertible models to the 4 Series (to further differentiate it from the 3 Series), the M4 replaced the M3 Coupe and Convertible models. Upgrades over the standard BMW 4-Series include: a very powerful and responsive, twin turbocharged engine; improved handling, suspension, and braking systems; aerodynamic body enhancements; interior/exterior accents with the tri-colour \"M\" (Motorsport) badging; the significantly reduced weight compared to the standard 4 series and its predecessor with an all-new stiffer chassis and extensive use of carbon fiber, especially the roof of the car.\",": {},
-  "\"Rating\":\"8.54\",": {},
-  "\"category\":\"Coupe| Sport \",": {},
-  "\"brand\":\"BMW\",": {},
-  "\"model\":\"Mercedes-Benz C 63 AMG S+HUD+ Comand+Panorama+Key-less\",": {},
-  "\"description\":\"How quickly can you clear your mind? Get in. Buckle up. Your right foot hovers expectantly above the pedal. With its V8 biturbo engine, the Mercedes-AMG C63 sedan confidently and powerfully accelerates you out of your everyday life. Its brawny corners and well-defined muscles aren?t just a bow to the streets of the world, but send an unmistakable signal as well: You don?t have time for hesitation or procrastination.\",": {},
-  "\"Rating\":\"8.50\",": {},
-  "\"brand\":\"Mercedes\",": {},
-  "": {}
-}
+[
+        {
+            "name": "Naruto: Shippuuden",
+            "description": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.",
+            "Rating": "8.16",
+            "category":"Animation | Drama | Adventure",
+            "brand":"Studio Pierrot",
+            "img": "https://i.ebayimg.com/00/s/MTA2N1gxNjAw/z/zLMAAOSwT4tZrWPd/$_20.jpg"
+        },
+        {
+            "model": "One Piece",
+            "description": "Gol D. Roger was known as the 'Pirate King',the strongest and most infamous being to have sailed the Grand Line. The capture and death of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King.",
+            "Rating": "8.54",
+            "category":"Animation | Drama | Adventure",
+            "brand":"Toei Animation",
+            "img": "https://i.ebayimg.com/00/s/MTA2NlgxNjAw/z/0PkAAOSwhkZa1Kwi/$_20.jpg"
+        }
+]
