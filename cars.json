@@ -9,6 +9,18 @@
 		"id": "2",
 		"name": "Slide2",
 		"description": "Slider 2 details",
-		"image_url" :"http://www.slate.com/content/dam/slate/articles/life/drink/2014/12/141217_DRINK_Cocktails.jpg.CROP.promo-mediumlarge.jpg"
+		"image_url" :"https://images.alphacoders.com/548/548027.jpg"
+	}
+	{
+		"id": "3",
+		"name": "Slide3",
+		"description": "Slider 3 details",
+		"image_url" :"https://hdwallsource.com/img/2014/10/drink-wallpaper-hd-45099-46270-hd-wallpapers.jpg"
+	}
+	{
+		"id": "4",
+		"name": "Slide4",
+		"description": "Slider 4 details",
+		"image_url" :"https://www.artsfon.com/pic/201410/1680x1050/artsfon.com-18286.jpg"
 	}
 ]
