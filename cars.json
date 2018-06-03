@@ -1,0 +1,14 @@
+[
+	{
+		"id": "1",
+		"name": "Slide1",
+		"description": "Slider 1 details",
+		"image_url" :"https://github.com/mrredalex13/duolane/blob/master/bmw-f30-3-335i-series-white%20(1).jpg"
+	},
+	{
+		"id": "2",
+		"name": "Slide2",
+		"description": "Slider 2 details",
+		"image_url" :"https://github.com/mrredalex13/duolane/blob/master/background1.jpg"
+	}
+]
