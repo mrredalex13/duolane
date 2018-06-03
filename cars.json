@@ -9,6 +9,18 @@
 		"id": "2",
 		"name": "Slide2",
 		"description": "Slider 2 details",
-		"image_url" :"https://www.rivieradrinks.co.uk/content/uploads/2014/10/hero-drinks-1.png"
+		"image_url" :"https://images.alphacoders.com/548/548027.jpg"
+	},
+	{
+		"id": "3",
+		"name": "Slide3",
+		"description": "Slider 3 details",
+		"image_url" :"https://www.moerseboys.nl/wp-content/uploads/2018/02/Cocktail-Gifts-for-him.jpg"
+	},
+	{
+		"id": "4",
+		"name": "Slide4",
+		"description": "Slider 4 details",
+		"image_url" :"http://www.hdwallpaperspulse.com/wp-content/uploads/2012/10/Food-Drinks.jpg"
 	}
 ]
