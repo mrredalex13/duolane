@@ -3,12 +3,12 @@
 		"id": "1",
 		"name": "Slide1",
 		"description": "Slider 1 details",
-		"image_url" : "https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2017/ismixingdrin.jpg"
+		"image_url" :"http://www.spiegelau-perfectservecollection.com/uploads/tx_templavoila/header_drinks_3.jpg"
 	},
 	{
 		"id": "2",
 		"name": "Slide2",
 		"description": "Slider 2 details",
-		"image_url" :"https://images.alphacoders.com/548/548027.jpg"
+		"image_url" :"https://www.rivieradrinks.co.uk/content/uploads/2014/10/hero-drinks-1.png"
 	}
 ]
